@@ -34,7 +34,7 @@ $(document).ready(function() {
           "Mag'har Orc": ["Hunter", "Mage", "Priest", "Rogue", "Shaman", "Warrior", "Death Knight", "Monk"],
           "Zandalari Troll": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warrior", "Death Knight", "Monk"],
           "Vulpera": ["Hunter", "Mage", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
-          "Dracthyr": ["Evoker"]
+          "Dracthyr": ["Evoker", "Hunter", "Mage", "Priest", "Rogue", "Warlock", "Warrior"]
         },
         spec: {
           "Death Knight": ["Blood", "Frost", "Unholy"],
